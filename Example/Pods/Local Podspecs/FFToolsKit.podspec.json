@@ -1,0 +1,30 @@
+{
+  "name": "FFToolsKit",
+  "version": "0.1.0",
+  "summary": "FFToolsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suxx/FFToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suxx9999@qq.com": "suxx9999@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/suxx/FFToolsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFToolsKit/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}
